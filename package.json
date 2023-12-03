@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "@tremor/react": "^3.11.1",
+    "axios": "^1.6.2",
+    "next": "14.0.3",
     "react": "^18",
+    "react-async": "^10.0.1",
     "react-dom": "^18",
-    "next": "14.0.3"
+    "suspense": "^0.0.51"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
